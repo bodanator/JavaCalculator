@@ -3,7 +3,7 @@ import java.io.*;
 
 public class Calculator {    //NetBeans
 
-//public class Compiling {    //Codecademy
+//public class Compiling {   
 
     static final int ADD = 0;
     static final int SUBTRACT = 1;
